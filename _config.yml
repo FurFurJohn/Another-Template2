@@ -4,7 +4,7 @@ description: >
     Yue(Alex) Jiang Another Template for DSCI 521
 author: Yue(Alex) Jiang
 email: your@e.mail
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "https://furfurjohn.github.io/Another-Template2/" # the subpath of your site, e.g. /blog
 url: "https://furfurjohn.github.io" # the base hostname & protocol for your site
 twitter_username: YourTwitter
 github_username:  YourGitHub
